@@ -1,0 +1,9 @@
+title: TrendBlox Legal
+description: Legal, privacy and support pages for TrendBlox.
+lang: es-ES
+theme: minima
+
+header_pages:
+  - privacy.md
+  - support.md
+  - disclaimer.md

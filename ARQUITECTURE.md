@@ -1,0 +1,27 @@
+# ARQUITECTURE
+
+## Objetivo
+
+Este repositorio separa el paquete legal publico de TrendBlox del codigo de la app para poder publicarlo con GitHub Pages y reutilizarlo en App Store Connect.
+
+## Modulos
+
+### `docs/`
+
+Contiene las paginas publicas de Jekyll:
+
+- `index.md`: landing legal.
+- `privacy.md`: politica de privacidad publica.
+- `support.md`: pagina publica de soporte.
+- `disclaimer.md`: descargo de no afiliacion.
+- `_config.yml`: configuracion minima de GitHub Pages.
+
+### `legal/`
+
+Contiene documentacion operativa y verificacion:
+
+- textos base legales y de soporte;
+- checklist de GitHub Pages;
+- checklist de App Privacy;
+- notas base para App Review;
+- `pages-smoke-test.sh` para verificacion por `curl`.
