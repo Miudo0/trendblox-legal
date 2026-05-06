@@ -28,3 +28,7 @@ Repositorio legal de GitHub Pages para TrendBlox, preparado a partir de las fuen
 ## Publicacion
 
 Configurar GitHub Pages para publicar desde `docs/` y ejecutar `legal/pages-smoke-test.sh` contra la URL final una vez desplegado.
+
+## Nota sobre GitHub Pages
+
+Al publicarse como proyecto en `https://miudo0.github.io/trendblox-legal/`, los enlaces internos deben construirse con `relative_url` y `baseurl` para evitar 404 hacia la raiz del dominio.

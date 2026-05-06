@@ -16,6 +16,8 @@ Contiene las paginas publicas de Jekyll:
 - `disclaimer.md`: descargo de no afiliacion.
 - `_config.yml`: configuracion minima de GitHub Pages.
 
+La configuracion de Jekyll define `url` y `baseurl` para soportar despliegue como proyecto de GitHub Pages bajo la subruta `/trendblox-legal`.
+
 ### `legal/`
 
 Contiene documentacion operativa y verificacion:

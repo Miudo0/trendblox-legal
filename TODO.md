@@ -2,8 +2,8 @@
 
 ## Pendiente para publicar en GitHub Pages
 
-- Activar GitHub Pages en el repositorio y publicar desde `docs/`.
-- Esperar a que GitHub complete el deploy.
+- Verificar que GitHub Pages sigue publicando desde `docs/`.
+- Esperar a que GitHub complete el redeploy tras la correccion de enlaces con `baseurl`.
 - Ejecutar `legal/pages-smoke-test.sh` contra la URL final publicada.
 
 ## Pendiente para App Store Connect

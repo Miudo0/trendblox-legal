@@ -1,6 +1,8 @@
 title: TrendBlox Legal
 description: Legal, privacy and support pages for TrendBlox.
 lang: es-ES
+url: https://miudo0.github.io
+baseurl: /trendblox-legal
 theme: minima
 
 header_pages:

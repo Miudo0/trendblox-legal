@@ -11,9 +11,9 @@ TrendBlox no es una app oficial de Roblox, no esta afiliada, patrocinada ni resp
 
 ## Paginas
 
-- [Politica de privacidad](/privacy/)
-- [Soporte](/support/)
-- [Descargo de no afiliacion](/disclaimer/)
+- [Politica de privacidad]({{ '/privacy/' | relative_url }})
+- [Soporte]({{ '/support/' | relative_url }})
+- [Descargo de no afiliacion]({{ '/disclaimer/' | relative_url }})
 
 ## Estado para publicacion
 
