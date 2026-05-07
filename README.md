@@ -32,3 +32,7 @@ Configurar GitHub Pages para publicar desde `docs/` y ejecutar `legal/pages-smok
 ## Nota sobre GitHub Pages
 
 Al publicarse como proyecto en `https://miudo0.github.io/trendblox-legal/`, los enlaces internos deben construirse con `relative_url` y `baseurl` para evitar 404 hacia la raiz del dominio.
+
+## Cobertura documental para App Store
+
+El paquete legal ya deja explicitos soporte publico, canal operativo de reporte por email, descargo de no afiliacion y el encaje documental de ATT/tracking cuando la configuracion publicitaria de la build lo requiera.

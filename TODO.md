@@ -14,3 +14,5 @@
 - Usar la URL final de `/support/` como Support URL.
 - Completar App Privacy segun `legal/AppPrivacyChecklist.md` con la build real.
 - Preparar las notas de review con `legal/AppReviewNotes.md`.
+- Confirmar que las respuestas de App Privacy y tracking en App Store Connect coinciden con la build final de `Release`.
+- Confirmar el encuadre final de la app ante Apple como experiencia editorial/de descubrimiento y no afiliada.

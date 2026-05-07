@@ -18,9 +18,24 @@ La app no tiene login propio y no solicita credenciales de Roblox.
 
 La app consume datos publicos de Roblox, como nombres de experiencias, creadores, imagenes publicas, metricas publicas y badges. TrendBlox no aloja experiencias, no permite publicar contenido dentro de la app y no modifica el contenido de Roblox.
 
+TrendBlox debe presentarse como una app editorial/de descubrimiento, no como una app oficial de Roblox ni como una plataforma propia de publicacion de contenido. La app indexa datos publicos y redirige externamente al entorno oficial de Roblox para jugar.
+
 ## Enlaces externos
 
 El CTA principal abre experiencias mediante enlaces oficiales HTTPS de Roblox con `placeId` valido. El usuario sale hacia Roblox para jugar.
+
+## Soporte y reporte
+
+La app tiene soporte publico en `https://miudo0.github.io/trendblox-legal/support/` y politica de privacidad publica en `https://miudo0.github.io/trendblox-legal/privacy/`.
+
+El canal operativo de soporte y privacidad es `miudo09dev@gmail.com`.
+
+Si App Review pregunta por contenido problematico o enlaces incorrectos, la respuesta base es:
+
+- TrendBlox no aloja contenido propio ni UGC.
+- La app permite reportar incidencias por email operativo.
+- TrendBlox puede revisar errores de presentacion o enlazado dentro de la app.
+- La moderacion del contenido de la experiencia en si pertenece a Roblox y a sus creadores.
 
 ## Favoritos y cache
 
@@ -29,6 +44,8 @@ Los favoritos y la cache son locales en el dispositivo mediante SwiftData. No ha
 ## Anuncios
 
 Esta build activa anuncios nativos de Google AdMob. La app usa Google User Messaging Platform para recopilar consentimiento cuando corresponde y muestra opciones de privacidad cuando son requeridas.
+
+Si la configuracion publicitaria de la build lo requiere, iOS puede presentar tambien el permiso de App Tracking Transparency para anuncios personalizados. Las respuestas de App Privacy deben alinearse con el binario final, `PrivacyInfo.xcprivacy` y la configuracion real de consentimiento/ads de `Release`.
 
 ## Datos de prueba
 

@@ -18,6 +18,8 @@ Contiene las paginas publicas de Jekyll:
 
 La configuracion de Jekyll define `url` y `baseurl` para soportar despliegue como proyecto de GitHub Pages bajo la subruta `/trendblox-legal`.
 
+Las paginas publicas cubren tambien soporte operativo, reporte por email, descargo de no afiliacion y el encaje documental de ATT/tracking cuando la configuracion publicitaria de la build lo requiera.
+
 ### `legal/`
 
 Contiene documentacion operativa y verificacion:
@@ -27,3 +29,5 @@ Contiene documentacion operativa y verificacion:
 - checklist de App Privacy;
 - notas base para App Review;
 - `pages-smoke-test.sh` para verificacion por `curl`.
+
+Las notas de review deben mantenerse alineadas con la build final de `Release`, especialmente en App Privacy, tracking, consentimiento y encuadre editorial frente a contenido de terceros.

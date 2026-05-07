@@ -45,6 +45,8 @@ La app incluye integracion tecnica con Google Mobile Ads y Google User Messaging
 
 La version de produccion activa anuncios nativos mediante Google AdMob. Google Mobile Ads puede tratar datos como identificadores del dispositivo, datos de publicidad, interacciones con anuncios, diagnosticos, rendimiento y direccion IP aproximada para medicion, entrega de anuncios, prevencion de fraude y analitica publicitaria. TrendBlox usa Google User Messaging Platform para mostrar los formularios de consentimiento o privacidad requeridos antes de solicitar anuncios cuando corresponda.
 
+Si la configuracion publicitaria de la build lo requiere, iOS puede mostrar tambien el permiso de App Tracking Transparency para autorizar o rechazar el seguimiento con fines publicitarios personalizados. La app puede mostrar anuncios personalizados o no personalizados segun el consentimiento y la configuracion aplicable en esa version.
+
 ## Finalidades
 
 TrendBlox usa los datos para:
@@ -70,6 +72,8 @@ La app puede comunicarse con:
 - Roblox, para obtener contenido publico y abrir experiencias.
 - Apple, como plataforma de distribucion y sistema operativo.
 - Google, si se activa la funcionalidad publicitaria o de consentimiento integrada en la app.
+
+La configuracion exacta de datos usados para publicidad, medicion y posibles fines de seguimiento depende de la version publicada y de los SDKs activos en la build enviada a App Store.
 
 ## Seguridad
 
